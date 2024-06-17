@@ -15,3 +15,5 @@ function calculate() {
         alert("Invalid operation");
     }
 }
+
+alert("git 2nd commit");
